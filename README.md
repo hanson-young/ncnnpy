@@ -16,10 +16,10 @@ python face_detector.py
 python face_recognition.py
 ```
 Retinaface for detection all faces  
-![all faces](./install/all faces.jpg)
+![all%20faces.jpg](https://github.com/hanson-young/ncnnpy/blob/master/install/all%20faces.jpg)
 
 MTCNN for detection max face  
-![max face](./install/max face.jpg)
+![max%20face.jpg](https://github.com/hanson-young/ncnnpy/blob/master/install/max%20face.jpg)
 
 
 ### Recompile
