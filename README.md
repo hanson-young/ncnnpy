@@ -15,11 +15,11 @@ just put ncnnpy.so to ./install and run
 python face_detector.py
 python face_recognition.py
 ```
-Retinaface for detection all faces
-![all faces](install/all faces.jpg)
+Retinaface for detection all faces  
+![all faces](./install/all faces.jpg)
 
-MTCNN for detection max face
-![max face](install/max face.jpg)
+MTCNN for detection max face  
+![max face](./install/max face.jpg)
 
 
 ### Recompile
