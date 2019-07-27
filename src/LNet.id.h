@@ -1,0 +1,63 @@
+#ifndef NCNN_INCLUDE_GUARD_LNet_id_h
+#define NCNN_INCLUDE_GUARD_LNet_id_h
+namespace LNet_param_id {
+const int LAYER_data = 0;
+const int BLOB_data = 0;
+const int LAYER_ConvNd_1 = 1;
+const int BLOB_ConvNd_1 = 1;
+const int LAYER_BatchNorm_1 = 2;
+const int BLOB_BatchNorm_1 = 2;
+const int LAYER_BatchNorm_1_scale = 3;
+const int BLOB_BatchNorm_1_scale = 3;
+const int LAYER_PReLU_1 = 4;
+const int BLOB_PReLU_1 = 4;
+const int LAYER_MaxPool2d_1 = 5;
+const int BLOB_MaxPool2d_1 = 5;
+const int LAYER_ConvNd_2 = 6;
+const int BLOB_ConvNd_2 = 6;
+const int LAYER_BatchNorm_2 = 7;
+const int BLOB_BatchNorm_2 = 7;
+const int LAYER_BatchNorm_2_scale = 8;
+const int BLOB_BatchNorm_2_scale = 8;
+const int LAYER_PReLU_2 = 9;
+const int BLOB_PReLU_2 = 9;
+const int LAYER_MaxPool2d_2 = 10;
+const int BLOB_MaxPool2d_2 = 10;
+const int LAYER_ConvNd_3 = 11;
+const int BLOB_ConvNd_3 = 11;
+const int LAYER_BatchNorm_3 = 12;
+const int BLOB_BatchNorm_3 = 12;
+const int LAYER_BatchNorm_3_scale = 13;
+const int BLOB_BatchNorm_3_scale = 13;
+const int LAYER_PReLU_3 = 14;
+const int BLOB_PReLU_3 = 14;
+const int LAYER_MaxPool2d_3 = 15;
+const int BLOB_MaxPool2d_3 = 15;
+const int LAYER_ConvNd_4 = 16;
+const int BLOB_ConvNd_4 = 16;
+const int LAYER_BatchNorm_4 = 17;
+const int BLOB_BatchNorm_4 = 17;
+const int LAYER_BatchNorm_4_scale = 18;
+const int BLOB_BatchNorm_4_scale = 18;
+const int LAYER_PReLU_4 = 19;
+const int BLOB_PReLU_4 = 19;
+const int LAYER_View_1 = 20;
+const int BLOB_View_1 = 20;
+const int LAYER_Addmm_1 = 21;
+const int BLOB_Addmm_1 = 21;
+const int LAYER_PReLU_5 = 22;
+const int BLOB_PReLU_5 = 22;
+const int LAYER_PReLU_5_copyer = 23;
+const int BLOB_PReLU_5_Addmm_2 = 23;
+const int BLOB_PReLU_5_Addmm_3 = 24;
+const int BLOB_PReLU_5_Addmm_4 = 25;
+const int LAYER_Addmm_2 = 24;
+const int BLOB_Addmm_2 = 26;
+const int LAYER_Sigmoid_1 = 25;
+const int BLOB_Sigmoid_1 = 27;
+const int LAYER_Addmm_3 = 26;
+const int BLOB_Addmm_3 = 28;
+const int LAYER_Addmm_4 = 27;
+const int BLOB_Addmm_4 = 29;
+} // namespace LNet_param_id
+#endif // NCNN_INCLUDE_GUARD_LNet_id_h
